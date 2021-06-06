@@ -8,5 +8,5 @@
 	
 ## Results
 - The results for each request are shown by the pngs below.
-
+	* [WeatherPy vacation map](Vacation_Search/WeatherPy_vacation_map.PNG)	
  
