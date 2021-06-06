@@ -7,7 +7,6 @@
 	* Finally, using the Google Maps Directions API, you will create a travel route between the four cities as well as a marker layer map.
 	
 ## Results
-- 
 - The results for each request are shown by the pngs below.
 	* [Filtered by Weather Database](Weather_Database/Filtered_weather_database.PNG)
 	* [WeatherPy vacation map](Vacation_Search/WeatherPy_vacation_map.PNG)
