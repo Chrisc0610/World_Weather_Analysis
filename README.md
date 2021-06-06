@@ -8,5 +8,7 @@
 	
 ## Results
 - The results for each request are shown by the pngs below.
-
- 
+	* [WeatherPy vacation map](Vacation_Search/WeatherPy_vacation_map.PNG)	
+	* [WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers_2.png)	
+ 	* [WeatherPy vacation map](Vacation_Itinerary/WeatherPy_vacation_map.PNG)
+ 	*
